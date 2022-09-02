@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Rainis;
+    src: url('./fonts/Rainis-Normal.ttf')  format('truetype');
+}
+
+h1 {
+    font-family: Rainis;
+}
